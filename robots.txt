@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: top-kazino-rossii.github.io
+Sitemap: https://top-kazino-rossii.github.io/sitemap.xml
